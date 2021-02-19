@@ -10,7 +10,7 @@
 
 ![image-20210218194614634](LEVEL 1.assets/image-20210218194614634.png)
 
-using this, you can get the vertical line from 2-dimensional matrix without recalibrating transposed matrix.
+> using this, you can get the vertical line from 2-dimensional matrix without recalibrating transposed matrix.
 
 2. Moreover, it can actually zip range and list together, returning not only list as a result but in a dictionary as well. As regards to this method, you can substitute `enumerate` function in overall process.
 
